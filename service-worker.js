@@ -1,5 +1,5 @@
-var dataCacheName = 'weatherData-v3.7';
-var cacheName = 'weatherPWA-v2.7';
+var dataCacheName = 'weatherData-v3.8';
+var cacheName = 'weatherPWA-v2.8';
 var filesToCache = [
     '/',
     '/index.html',
@@ -21,7 +21,7 @@ var filesToCache = [
     '/images/clear.png'
 ];
 self.addEventListener('install', function (e) {
-    //console.log('[ServiceWorker] install');
+    console.log('[ServiceWorker] install', e);
     e.waitUntil(
         caches.open(cacheName).then(function (cache) {
             console.log('[ServiceWorker] Caching app shell');
@@ -30,7 +30,7 @@ self.addEventListener('install', function (e) {
     );
 });
 self.addEventListener('activate', function (e) {
-    //console.log('[ServiceWorker] Activate');
+    console.log('[ServiceWorker] Activate', e);
     e.waitUntil(
         caches.keys().then(function (keyList) {
             return Promise.all(keyList.map(function (key) {
@@ -43,7 +43,7 @@ self.addEventListener('activate', function (e) {
     );
 });
 self.addEventListener('fetch', function (e) {
-    console.log('[ServiceWorker] Fetch', e.request.url);
+    console.log('[ServiceWorker] Fetch', e);
     var dataUrl = 'https://query.yahooapis.com/v1/public/yql';
     if (e.request.url.indexOf(dataUrl) > -1) {
         e.respondWith(
