@@ -2,7 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a97fc78-e381-4166-b23c-ca94c44fd1c7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push-api-demo" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/clear.png" afterPath="$PROJECT_DIR$/images/clear.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/cloudy-scattered-showers.png" afterPath="$PROJECT_DIR$/images/cloudy-scattered-showers.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/cloudy.png" afterPath="$PROJECT_DIR$/images/cloudy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/cloudy_s_sunny.png" afterPath="$PROJECT_DIR$/images/cloudy_s_sunny.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/fog.png" afterPath="$PROJECT_DIR$/images/fog.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/ic_add_white_24px.svg" afterPath="$PROJECT_DIR$/images/ic_add_white_24px.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/ic_refresh_white_24px.svg" afterPath="$PROJECT_DIR$/images/ic_refresh_white_24px.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/icons/icon-128x128.png" afterPath="$PROJECT_DIR$/images/icons/icon-128x128.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/icons/icon-144x144.png" afterPath="$PROJECT_DIR$/images/icons/icon-144x144.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/icons/icon-152x152.png" afterPath="$PROJECT_DIR$/images/icons/icon-152x152.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/icons/icon-192x192.png" afterPath="$PROJECT_DIR$/images/icons/icon-192x192.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/icons/icon-256x256.png" afterPath="$PROJECT_DIR$/images/icons/icon-256x256.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/icons/icon-32x32.png" afterPath="$PROJECT_DIR$/images/icons/icon-32x32.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/partly-cloudy.png" afterPath="$PROJECT_DIR$/images/partly-cloudy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/rain.png" afterPath="$PROJECT_DIR$/images/rain.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/scattered-showers.png" afterPath="$PROJECT_DIR$/images/scattered-showers.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/sleet.png" afterPath="$PROJECT_DIR$/images/sleet.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/snow.png" afterPath="$PROJECT_DIR$/images/snow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/thunderstorm.png" afterPath="$PROJECT_DIR$/images/thunderstorm.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/images/wind.png" afterPath="$PROJECT_DIR$/images/wind.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/manifest.json" afterPath="$PROJECT_DIR$/manifest.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/scripts/app.js" afterPath="$PROJECT_DIR$/scripts/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/service-worker.js" afterPath="$PROJECT_DIR$/service-worker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/service-worker-demo/styles/inline.css" afterPath="$PROJECT_DIR$/styles/inline.css" />
     </list>
     <ignored path="QiwenLi.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,10 +49,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-worker-demo/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.071428">
+            <state vertical-scroll-proportion="0.68992245">
               <caret line="174" column="24" selection-start-line="174" selection-start-column="24" selection-end-line="174" selection-end-column="24" />
               <folding>
                 <element signature="e#0#574#0" expanded="false" />
@@ -39,15 +65,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="favicon.ico" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-worker-demo/favicon.ico">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="service-worker.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-worker-demo/service-worker.js">
+        <entry file="file://$PROJECT_DIR$/service-worker.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="22.851852">
               <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
@@ -57,7 +76,7 @@
         </entry>
       </file>
       <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-worker-demo/manifest.json">
+        <entry file="file://$PROJECT_DIR$/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-16.285715">
               <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
@@ -66,18 +85,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-worker-demo/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-worker-demo/scripts/app.js">
+        <entry file="file://$PROJECT_DIR$/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="315" column="42" selection-start-line="315" selection-start-column="42" selection-end-line="315" selection-end-column="42" />
@@ -97,23 +106,6 @@
                 <element signature="e#11584#11724#0" expanded="false" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inline.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/service-worker-demo/styles/inline.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46134663">
-              <caret line="515" column="25" selection-start-line="515" selection-start-column="25" selection-end-line="515" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon-32x32.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-worker-demo/images/icons/icon-32x32.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -215,6 +207,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/service-worker-demo" />
     </key>
   </component>
@@ -267,13 +260,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18816067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18816067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -304,25 +297,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/service-worker-demo/images/icons/icon-32x32.png">
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-worker-demo/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-worker-demo/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.285715">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-worker-demo/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
@@ -330,21 +310,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-worker-demo/index.html">
+    <entry file="file://$PROJECT_DIR$/service-worker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.071428">
-          <caret line="174" column="24" selection-start-line="174" selection-start-column="24" selection-end-line="174" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#574#0" expanded="false" />
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="22.851852">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-worker-demo/scripts/app.js">
+    <entry file="file://$PROJECT_DIR$/images/icons/icon-32x32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/inline.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33290324">
+          <caret line="399" column="36" selection-start-line="399" selection-start-column="30" selection-end-line="399" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="315" column="42" selection-start-line="315" selection-start-column="42" selection-end-line="315" selection-end-column="42" />
@@ -366,19 +353,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-worker-demo/service-worker.js">
+    <entry file="file://$PROJECT_DIR$/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="22.851852">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state vertical-scroll-proportion="-16.285715">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-worker-demo/styles/inline.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46134663">
-          <caret line="515" column="25" selection-start-line="515" selection-start-column="25" selection-end-line="515" selection-end-column="25" />
-          <folding />
+        <state vertical-scroll-proportion="0.68992245">
+          <caret line="174" column="24" selection-start-line="174" selection-start-column="24" selection-end-line="174" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#574#0" expanded="false" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
