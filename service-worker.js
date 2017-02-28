@@ -1,5 +1,5 @@
-var dataCacheName = 'weatherData-v3.9';
-var cacheName = 'weatherPWA-v2.9';
+var dataCacheName = 'weatherData-v4.0';
+var cacheName = 'weatherPWA-v3.0';
 var filesToCache = [
     '/',
     '/index.html',
