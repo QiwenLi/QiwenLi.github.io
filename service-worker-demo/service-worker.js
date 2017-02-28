@@ -1,24 +1,23 @@
 var dataCacheName = 'weatherData-v4.0';
 var cacheName = 'weatherPWA-v3.0';
 var filesToCache = [
-    '/',
-    '/index.html',
-    '/scripts/app.js',
-    '/styles/inline.css',
-    '/images/cloudy.png',
-    '/images/cloudy-scattered-showers.png',
-    '/images/cloudy_s_sunny.png',
-    '/images/fog.png',
-    '/images/ic_add_white_24px.svg',
-    '/images/ic_refresh_white_24px.svg',
-    '/images/partly-cloudy.png',
-    '/images/rain.png',
-    '/images/scattered-showers.png',
-    '/images/sleet.png',
-    '/images/snow.png',
-    '/images/thunderstorm.png',
-    '/images/wind.png',
-    '/images/clear.png'
+    'index.html',
+    'scripts/app.js',
+    'styles/inline.css',
+    'images/cloudy.png',
+    'images/cloudy-scattered-showers.png',
+    'images/cloudy_s_sunny.png',
+    'images/fog.png',
+    'images/ic_add_white_24px.svg',
+    'images/ic_refresh_white_24px.svg',
+    'images/partly-cloudy.png',
+    'images/rain.png',
+    'images/scattered-showers.png',
+    'images/sleet.png',
+    'images/snow.png',
+    'images/thunderstorm.png',
+    'images/wind.png',
+    'images/clear.png'
 ];
 self.addEventListener('install', function (e) {
     console.log('[ServiceWorker] install', e);
