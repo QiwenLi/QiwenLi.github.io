@@ -30,7 +30,7 @@ self.addEventListener('install', function (e) {
                 return cache.addAll(filesToCache);
             })
             .then(function () {
-                self.skipWaiting();
+                return self.skipWaiting();
             })
     );
 });
@@ -47,7 +47,7 @@ self.addEventListener('activate', function (e) {
                 }));
             })
             .then(function () {
-                self.clients.claim();
+                return self.clients.claim();
             })
     );
 });
